@@ -28,6 +28,7 @@ The following plot demonstrates the relationship between the confirmed and the d
 ## Conclusions
 The plot clearly shows that in the most affected places, there has been a considerable amount of shortage of hospital beds for the COVID patients thereby making home isolation a better option for the patients.
 
+
 You're most welcome to use the datasets attached here or to fork the repository.
 
 Happy Visualizing!
