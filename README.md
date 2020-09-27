@@ -5,7 +5,7 @@ This is an **EDA and a Machine Learning project** which utilses the **COVID-19**
 The following plot was plotted using plotly and shows the daily positive cases till 15th of July.
 ![Daily cases in India till 15th of July](https://github.com/Vidushi-Gupta/COVID_hospital_beds/blob/master/Visualizations/daily%20cases.png)
 
-The following plot was plotted using plotly and shows the dailu cured cases till the 15th of July.
+The following plot was plotted using plotly and shows the daily cured cases till the 15th of July.
 ![Daily cured cases in India till 15th of July](https://github.com/Vidushi-Gupta/COVID_hospital_beds/blob/master/Visualizations/cured%20cases.png)
 
 ## Predicting using ML Model- FB Prophet
